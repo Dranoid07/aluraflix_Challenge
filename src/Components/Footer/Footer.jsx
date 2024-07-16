@@ -25,7 +25,7 @@ const PieDePagina = () => {
         <Footer>
             <Logotipo footer={true}/>
 
-            <Parrafo>Desarrollado por Manuel del Villar | 2024 </Parrafo>
+            <Parrafo>Desarrollado por Manuel del Villar 💪 | 2024 </Parrafo>
         </Footer>
     )
 }
