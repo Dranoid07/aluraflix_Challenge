@@ -1,11 +1,11 @@
 
-AluraFlix
-Alurafix es una aplicación web diseñada para la publicación de videos. Los usuarios pueden subir y ver los videos de manera fácil y eficiente. Esta aplicación ha sido desarrollada utilizando JavaScript y React, aprovechando las últimas tecnologías para proporcionar una experiencia de usuario fluida y moderna.
+AluraFlix:
+Alurafix es una plataforma web enfocada en la publicación de videos, donde los usuarios pueden cargar y visualizar contenido de forma sencilla y eficaz. Esta herramienta ha sido creada utilizando JavaScript y React, integrando tecnologías avanzadas para ofrecer una experiencia de usuario ágil y actualizada.
 
 
-Tecnologías Utilizadas:
+Tecnologías Empleadas:
 
-JavaScript: Lenguaje de programación principal.
-- React: Biblioteca de JavaScript para construir interfaces de usuario.
-- HTML5: Estructura de la aplicación.
--CSS3: Estilos y diseño de la aplicación.
+JavaScript: Lenguaje de programación central.
+React: Librería de JavaScript utilizada para desarrollar interfaces de usuario.
+HTML5: Base estructural de la aplicación.
+CSS3: Responsable de los estilos y el diseño visual de la aplicación.
