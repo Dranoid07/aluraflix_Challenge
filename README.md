@@ -6,6 +6,9 @@ Alurafix es una plataforma web enfocada en la publicación de videos, donde los 
 Tecnologías Empleadas:
 
 JavaScript: Lenguaje de programación central.
+
 React: Librería de JavaScript utilizada para desarrollar interfaces de usuario.
+
 HTML5: Base estructural de la aplicación.
+
 CSS3: Responsable de los estilos y el diseño visual de la aplicación.
